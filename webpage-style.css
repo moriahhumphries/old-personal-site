@@ -11,14 +11,14 @@
 #fe3d49 - pink sun 4
 #ff2a59 - pink sun 5
 #fe2c6d - pink sun 6
-
-
+#fbf001 - yellow name
 */
 
 body {
     background-color: #cebc00;
     margin: 0;
     padding: 0;
+
 }
 
 #header-image {
@@ -34,9 +34,48 @@ body {
     border: 3px solid #8c8a7b;
 }
 
-#about-me {
+#about-me, #connect {
+    display: inline-block;
     border: 3px solid #8c8a7b;
-    background: #c3d47d;
-    width: 50vw;
+    background: #b8c972;
+    width: 43vw;
+    /*height: 25vw;*/
+    margin: 20px;
+    padding: 20px;
+}
+#main-project {
+    display: inline-block;
+    border: 3px solid #8c8a7b;
+    background: #b8c972;
+    width: 100vw;
+    padding: 20px 0 !important;
+
+
+}
+a:link {
+    color: #0092b0;
+}
+
+a:visited {
+    color: #8e3499;
+}
+
+a:hover {
+    color: #ff9300;
+}
+
+a:active {
+    color: #fe7920;
+}
+
+#weather-project, #coffee-project {
+
+    display: inline-block;
+    border: 3px solid #8c8a7b;
+    background: #fffee8;
+    width: 95%;
+    /*height: 25vw;*/
+    margin: 20px;
+    padding: 20px;
 
 }

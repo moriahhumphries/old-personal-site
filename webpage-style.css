@@ -13,7 +13,9 @@
 #fe2c6d - pink sun 6
 #fbf001 - yellow name
 */
-
+* {
+    font-family: 'Inconsolata', monospace;
+}
 body {
     background-color: #cebc00;
     margin: 0;

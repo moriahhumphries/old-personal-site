@@ -81,3 +81,8 @@ a:active {
     padding: 20px;
 
 }
+
+#weather-img, #coffee-img {
+    width: 100%;
+    height: auto;
+}

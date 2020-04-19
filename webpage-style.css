@@ -12,6 +12,8 @@
 #ff2a59 - pink sun 5
 #fe2c6d - pink sun 6
 #fbf001 - yellow name
+#b8c972 - green background boxes
+#cfe786 - lighter green background boxes
 */
 * {
     font-family: 'Lato', sans-serif;
@@ -58,7 +60,7 @@ html {
 #about-me, #connect {
     display: inline-block;
     border: 3px solid #8c8a7b;
-    background: #b8c972;
+    background: #cfe786;
     width: 100vw;
     padding: 10px;
     margin-bottom: 10px;
@@ -68,10 +70,10 @@ html {
 #main-project {
     display: inline-block;
     border: 3px solid #8c8a7b;
-    background: #b8c972;
+    background:  #cfe786;
     width: 100vw;
     padding: 10px;
-    margin-bottom: 10px;
+    /*margin-bottom: 10px;*/
 
 
 }

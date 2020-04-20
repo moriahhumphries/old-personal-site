@@ -40,6 +40,11 @@ html {
     height: auto;
 }
 
+/*#header-div {*/
+/*    width: 100vw;*/
+/*    height: 100vh;*/
+/*}*/
+
 #navbar {
     background-color: #0092b0;
     color: white;

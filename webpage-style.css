@@ -38,6 +38,7 @@ html {
 #header-image {
     width: 100%;
     height: auto;
+    margin-top: 50px;
 }
 
 /*#header-div {*/
@@ -52,8 +53,11 @@ html {
     height: 50px;
     margin-bottom: 10px;
     border: 3px solid #8c8a7b;
-    /*display: block;*/
-    /*position: relative;*/
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+
 }
 
 .nav-li > a {

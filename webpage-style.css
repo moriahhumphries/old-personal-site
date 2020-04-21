@@ -56,6 +56,15 @@ html {
     /*position: relative;*/
 }
 
+.nav-li > a {
+    color: white !important;
+    text-decoration: none;
+    font-family: 'Lobster', cursive;
+    font-size: 1.5em;
+}
+
+
+
 #icon {
     width: 12%;
     height: auto;
@@ -82,19 +91,19 @@ html {
 
 
 }
-a:link {
+.outside-link > a {
     color: #0092b0;
 }
 
-a:visited {
+.outside-link > a:visited{
     color: #8e3499;
 }
 
-a:hover {
+.outside-link > a:hover {
     color: #ff9300;
 }
 
-a:active {
+.outside-link > a:active {
     color: #fe7920;
 }
 

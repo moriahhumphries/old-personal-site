@@ -110,7 +110,6 @@ main {
 }
 
 #about-me, #connect {
-    scroll-snap-align: start;
     display: inline-block;
     border: 3px solid #8c8a7b;
     background: #cfe786;

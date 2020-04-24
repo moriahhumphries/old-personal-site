@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1eb7e857-c289-4a2f-91a0-090036f872e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpage-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/webpage-style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +61,7 @@
       <workItem from="1587496179432" duration="1171000" />
       <workItem from="1587497510788" duration="4822000" />
       <workItem from="1587575506471" duration="8000" />
+      <workItem from="1587698607137" duration="1841000" />
     </task>
     <servers />
   </component>
@@ -67,9 +69,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup" timestamp="1587497645969">
+    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup" timestamp="1587700777632">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1587497645969" />
+    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1587700777632" />
   </component>
 </project>

@@ -1,15 +1,50 @@
 body {
     background-image: url("leaves.jpg");
-    /*, url("leaves.jpg"), url("leaves2.jpg");*/
+, url("leaves.jpg"), url("leaves2.jpg");
     background-position: right, center, left;
     background-repeat: no-repeat;
-    background-size: 100vw;
+    background-size: 100vh;
 }
-
+#main-container {
+    width: 100vw;
+    height: 100vh;
+}
 #sidebar, #sidebar-img {
     width: 20vw;
     height: 100vh;
 }
+/*#left-background, #left-img {*/
+/*    height: 100vh;*/
+/*    width: auto;*/
+/*    display: inline-block;*/
+/*    position: absolute;*/
+/*    z-index: 1;*/
+/*}*/
+/*#left-space1, #left-space-img1 {*/
+/*    height: 100vh;*/
+/*    width: auto;*/
+/*   display: inline-block;*/
+/*    position: fixed;*/
+/*    right: 397px;*/
+/*    z-index: 20000;*/
+/*}*/
+/*#right-space1, #right-space-img1 {*/
+/*    height: 100vh;*/
+/*    width: auto;*/
+/*    display: inline-block;*/
+/*    position: fixed;*/
+/*    left: 440px;*/
+/*    z-index: 20000;*/
+/*}*/
+/*#right-background, #right-img {*/
+/*    height: 100vh;*/
+/*    width: auto;*/
+/*    display: inline-block;*/
+/*    position: fixed;*/
+/*    right: 0px;*/
+/*}*/
+
+
 /*body, html {*/
 /*    height: 100%;*/
 /*}*/

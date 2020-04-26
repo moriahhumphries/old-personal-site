@@ -61,7 +61,9 @@
       <workItem from="1587496179432" duration="1171000" />
       <workItem from="1587497510788" duration="4822000" />
       <workItem from="1587575506471" duration="8000" />
-      <workItem from="1587698607137" duration="1841000" />
+      <workItem from="1587698607137" duration="2853000" />
+      <workItem from="1587928525091" duration="3914000" />
+      <workItem from="1587941253906" duration="397000" />
     </task>
     <servers />
   </component>
@@ -69,9 +71,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup" timestamp="1587700777632">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1587941550502">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1587700777632" />
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.801@0.23.1440.801" timestamp="1587941550502" />
+    <state x="11" y="34" width="1316" height="779" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587941688633">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="11" y="34" width="1316" height="779" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.801@0.23.1440.801" timestamp="1587941688633" />
+    <state x="0" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587941540143">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="0" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.801@0.23.1440.801" timestamp="1587941540143" />
+    <state x="0" y="44" key="new project wizard" timestamp="1587742966467">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="0" y="44" key="new project wizard/0.23.1440.801@0.23.1440.801" timestamp="1587742966467" />
+    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup" timestamp="1587941283569">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1587941283569" />
   </component>
 </project>

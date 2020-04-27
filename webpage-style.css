@@ -1,5 +1,5 @@
 body {
-    background-image: url("right-crop.png");
+    background-image: url("img/background-xl-2.png");
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7,10 +7,11 @@ body {
 }
 
 #sidebar {
-    width: 200px;
+    width: 15vw;
     height: 100vh;
     background-size: cover;
-    background-image: url("wood.jpg");
+    background-repeat: no-repeat;
+    background-image: url("img/wood-slim.png");
     display: inline-block;
 }
 #main-container {
@@ -30,6 +31,7 @@ body {
     left: 25px;
     border-radius: 10px;
     height: 90vh;
+    width: 10vw;
 }
 
 .nav-li > a {

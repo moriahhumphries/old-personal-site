@@ -1,0 +1,164 @@
+/*BRIGHT WEBSITE*/
+
+/*!*header images colors:*/
+/*#ffb02c - orange on house*/
+/*#0092b0 - darker blue buildings*/
+/*#02d3fe - blue sky*/
+/*#00c48a - green plants*/
+/*#8c8a7b - lighter building*/
+/*#7f7a6f - darker building*/
+/*#ff9300 - orange sun 1*/
+/*#fe7920 - orange sun 2*/
+/*#ff5c3a - orange/red sun 3*/
+/*#fe3d49 - pink sun 4*/
+/*#ff2a59 - pink sun 5*/
+/*#fe2c6d - pink sun 6*/
+/*#fbf001 - yellow name*/
+/*#b8c972 - green background boxes*/
+/*#cfe786 - lighter green background boxes*/
+/**!*/
+/** {*/
+/*    font-family: 'Lato', sans-serif;*/
+/*}*/
+
+/*h2 {*/
+/*    font-family: 'Lobster', cursive;*/
+/*}*/
+/*body {*/
+/*    background-color: #cebc00;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+
+/*}*/
+
+/*html {*/
+/*    width: 100vw;*/
+/*    margin: 0 !important;*/
+/*    padding: 0 !important;*/
+/*}*/
+
+/*#header-image {*/
+/*    width: 100%;*/
+/*    height: auto;*/
+/*    margin-top: 50px;*/
+/*}*/
+
+/*!*#header-div {*!*/
+/*!*    width: 100vw;*!*/
+/*!*    height: 100vh;*!*/
+/*!*}*!*/
+
+/*#navbar {*/
+/*    background-color: #fe7920;*/
+/*    color: white;*/
+/*    width: 100vw;*/
+/*    height: 50px;*/
+/*    margin-bottom: 10px;*/
+/*    border: 3px solid #7f7a6f;*/
+/*    display: block;*/
+/*    position: fixed;*/
+/*    top: 0;*/
+/*    left: 0;*/
+
+/*}*/
+
+/*.nav-li > a {*/
+/*    color: white !important;*/
+/*    text-decoration: none;*/
+/*    font-family: 'Lobster', cursive;*/
+/*    font-size: 1.75em;*/
+/*}*/
+/*#small-icon {*/
+/*    width: 27%;*/
+/*    height: auto;*/
+/*    background-color: #fffee8;*/
+/*    border-radius: 50%;*/
+/*    margin-right: 5px;*/
+/*    display: inline-block;*/
+/*}*/
+
+/*#icon-li {*/
+/*    width: 150px;*/
+/*}*/
+/*main {*/
+/*    scroll-snap-type: y mandatory;*/
+/*}*/
+
+/*#about-me-anchor, #connect-anchor, #project-anchor{*/
+/*   display: block;*/
+/*    position: relative;*/
+/*    top: -47px;*/
+/*    visibility: hidden;*/
+/*}*/
+
+/*#connect {*/
+/*    scroll-snap-stop: always;*/
+/*    scroll-snap-align: start;*/
+/*}*/
+/*#weather-project {*/
+/*    scroll-snap-stop: always;*/
+/*    scroll-snap-align: start;*/
+/*}*/
+
+/*#about-me {*/
+/*    scroll-snap-stop: always;*/
+/*    scroll-snap-align: start;*/
+/*}*/
+/*#icon {*/
+/*    width: 12%;*/
+/*    height: auto;*/
+/*    background-color: #fffee8;*/
+/*    border-radius: 50%;*/
+/*}*/
+
+/*#about-me, #connect {*/
+/*    display: inline-block;*/
+/*    border: 3px solid #8c8a7b;*/
+/*    background: #cfe786;*/
+/*    width: 100vw;*/
+/*    padding: 10px;*/
+/*    margin-bottom: 10px;*/
+/*    !*height: 25vw;*!*/
+
+/*}*/
+/*#main-project {*/
+/*    display: inline-block;*/
+/*    border: 3px solid #8c8a7b;*/
+/*    background:  #cfe786;*/
+/*    width: 100vw;*/
+/*    padding: 10px;*/
+/*    !*margin-bottom: 10px;*!*/
+
+
+/*}*/
+/*.outside-link > a {*/
+/*    color: #0092b0;*/
+/*}*/
+
+/*.outside-link > a:visited{*/
+/*    color: #8e3499;*/
+/*}*/
+
+/*.outside-link > a:hover {*/
+/*    color: #ff9300;*/
+/*}*/
+
+/*.outside-link > a:active {*/
+/*    color: #fe7920;*/
+/*}*/
+
+/*#weather-project, #coffee-project {*/
+
+/*    display: inline-block;*/
+/*    border: 3px solid #8c8a7b;*/
+/*    background: #fffee8;*/
+/*    width: 100%;*/
+/*    !*height: 25vw;*!*/
+/*    padding: 10px;*/
+/*    margin-bottom: 10px;*/
+
+/*}*/
+
+/*#weather-img, #coffee-img {*/
+/*    width: 100%;*/
+/*    height: auto;*/

@@ -6,6 +6,13 @@ body {
 
 }
 
+#main-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+/*Large Nav Bar*/
+
 #sidebar {
     width: 15vw;
     height: 100vh;
@@ -14,13 +21,8 @@ body {
     background-image: url("img/wood-slim.png");
     display: inline-block;
 }
-#main-container {
-    width: 100vw;
-    height: 100vh;
-}
 
-
-#navbar-section-small {
+#navbar-section {
     background-color: rgba(224, 200, 173, .5);
     color: white;
     /*width: 100vw;*/
@@ -35,7 +37,7 @@ body {
     margin-top: 10px;
 }
 
-.nav-li-small > a {
+.nav-li > a {
     color: black !important;
     text-decoration: none;
     font-family: 'Lobster', cursive;
@@ -43,22 +45,21 @@ body {
 }
 
 .nav-li > a {
-    color: black !important;
+    color: white !important;
     text-decoration: none;
     font-family: 'Lobster', cursive;
     font-size: 1.75em;
 }
-#small-icon-mobile {
-    width: 27%;
-    height: auto;
-    background-color: #fffee8;
-    border-radius: 50%;
-    margin-right: 5px;
-    display: inline-block;
+
+#icon-li {
+    width: 150px;
 }
 
-#small-navbar {
-    background-color: #fe7920!important;
+/*Small Nav Bar*/
+
+#navbar-section-small {
+    background-image: url("img/wood-small-nav.png");
+    background-size: cover;
     color: white;
     width: 100vw;
     height: 50px;
@@ -70,25 +71,22 @@ body {
     left: 0;
 }
 
-*.nav-li > a {
-    color: white !important;
+.nav-li-small > a {
+    color: #fffee8 !important;
     text-decoration: none;
     font-family: 'Lobster', cursive;
     font-size: 1.75em;
 }
-
-
-
-#icon-li {
-    width: 150px;
+#small-icon-mobile {
+    width: 12%;
+    height: auto;
+    background-color: #fffee8;
+    border-radius: 50%;
+    margin-right: 5px;
+    display: inline-block;
 }
 
-#about-me {
-    border: 3px solid #8c8a7b;
-    background: #cfe786;
-}
-
-*#about-me-anchor, #connect-anchor, #project-anchor{
+#about-me-anchor, #connect-anchor, #project-anchor{
    display: block;
     position: relative;
     top: -47px;

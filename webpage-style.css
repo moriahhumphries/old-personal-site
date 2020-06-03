@@ -60,6 +60,70 @@ html {
 }
 
 
+/*Page Content Small*/
+
+#icon {
+    width: 12%;
+    height: auto;
+    background-color: #fffee8;
+    border-radius: 50%;
+}
+
+
+#about-me, #connect {
+    display: inline-block;
+    border: 3px solid #8c8a7b;
+    background: #cfe786;
+    width: 100vw;
+    padding: 10px;
+    margin-bottom: 10px;
+    /*height: 25vw;*/
+
+}
+
+#main-project {
+    display: inline-block;
+    border: 3px solid #8c8a7b;
+    background: #cfe786;
+    width: 100vw;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.outside-link > a {
+    color: #0092b0;
+}
+
+.outside-link > a:visited{
+    color: #8e3499;
+}
+
+.outside-link > a:hover {
+    color: #ff9300;
+}
+
+.outside-link > a:active {
+    color: #fe7920;
+}
+
+#weather-project, #coffee-project {
+
+    display: inline-block;
+    border: 3px solid #8c8a7b;
+    background: #fffee8;
+    width: 100%;
+    /*height: 25vw;*/
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+#weather-img, #coffee-img {
+    width: 100%;
+    height: auto;
+}
+
+
 /*Large Nav Bar*/
 
 /*#sidebar {*/

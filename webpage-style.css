@@ -71,6 +71,10 @@ html {
     border-radius: 50%;
 }
 
+#about-me {
+    margin-top: 50px;
+}
+
 
 #about-me, #connect {
     display: inline-block;

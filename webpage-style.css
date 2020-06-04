@@ -79,10 +79,10 @@ html {
 #about-me, #connect {
     display: inline-block;
     border: 1px solid #8c8a7b;
-    background-color: rgba(224, 200, 173, .3);
+    background-color: rgba(224, 200, 173, .5);
     width: 100vw;
     padding: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     /*height: 25vw;*/
 
 }
@@ -90,10 +90,9 @@ html {
 #main-project {
     display: inline-block;
     border: 1px solid #8c8a7b;
-    background-color: rgba(224, 200, 173, .3);
+    background-color: rgba(224, 200, 173, .5);
     width: 100vw;
-    padding: 10px;
-    margin-bottom: 10px;
+    padding: 15px;
 }
 
 .outside-link > a {

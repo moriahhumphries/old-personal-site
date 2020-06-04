@@ -65,8 +65,8 @@ html {
 /*Page Content Small*/
 
 #icon {
-    width: 100px;
-    height: auto;
+    width: auto;
+    height: 100px;
     background-color: #fffee8;
     border-radius: 50%;
 }

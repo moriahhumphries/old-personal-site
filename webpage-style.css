@@ -2,7 +2,7 @@ body {
     background-image: url("img/background-xl-2.png");
     background-position: right;
     background-repeat: no-repeat;
-    background-size: auto 1000px;
+    background-size: cover;
     background-attachment: fixed;
     margin: 0;
     padding: 0;

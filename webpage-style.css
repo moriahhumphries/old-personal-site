@@ -124,23 +124,24 @@ html {
 
 }
 
-/*#weather-img-car, #coffee-img-car, #coffee-img-car2 {*/
-/*    width: 100%;*/
-/*    height: auto;*/
-/*}*/
+#weather-img-car, #coffee-img-car, #coffee-img-car2 {
+    width: 100%;
+    height: auto;
+}
 
 /*Carousel */
 
 .carousel-control-next-icon, .carousel-control-prev-icon {
     background-color: #8a3e05;
     border-radius: 30%;
-    padding: 10%;
+    padding: 12%;
 }
 
 .carousel-control-prev, .carousel-control-next {
-    width: 50px;
-
+    width: 10vw;
 }
+
+
 
 
 /*Large Nav Bar*/

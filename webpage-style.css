@@ -14,6 +14,7 @@ html {
     height: 100vh;
     margin: 0 !important;
     padding: 0 !important;
+    scroll-behavior: smooth;
 }
 
 /*#main-container-small {*/
@@ -202,9 +203,17 @@ html {
     width: auto;
     height: 100vh;
     overflow-y: hidden;
-
 }
-
+#name > h1 {
+    font-size: 7em;
+}
+#landing-page {
+    display: inline-block;
+    width: 87vw;
+    height: 100vh;
+    padding: 10px;
+    margin-bottom: 15px;
+}
 #about-me-large, #connect-large, #projects-large {
     display: inline-block;
     border: 1px solid #8c8a7b;
@@ -215,10 +224,7 @@ html {
     margin-bottom: 15px;
 }
 
-#scroll-test {
-    height: 100vh;
-    background-color: red;
-}
+
 
 
 

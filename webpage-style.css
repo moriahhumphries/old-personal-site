@@ -180,7 +180,7 @@ html {
     border-radius: 50%;
 }
 
-/*Projects Page*/
+/*Large Content - middle-block*/
 
 #main-container-large-projects {
     height: 100vh;
@@ -204,6 +204,7 @@ html {
     overflow-y: hidden;
 
 }
+
 
 #scroll-test {
     height: 100vh;

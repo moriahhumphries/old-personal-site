@@ -11,20 +11,6 @@
 <body>
 
 
-<!--    Side Navbar - XL and L only-->
-
-<!--<div id="sidebar" class="d-none d-xl-block d-lg-block d-xl-none">-->
-<!--    <div id="navbar-section">-->
-<!--            <nav id="navbar" class="d-none d-xl-block d-lg-block d-xl-none">-->
-<!--            <ul class="d-flex nav flex-column">-->
-<!--                <li class="nav-li" id="icon-li"><a href="#about-me-anchor"><img src="img/moriah-icon.jpg" alt="icon" id="small-icon">About Me</a></li>-->
-<!--                <li class="nav-li"><a href="#connect-anchor">Connect</a></li>-->
-<!--                <li class="nav-li"><a href="#project-anchor">Projects</a></li>-->
-<!--            </ul>-->
-<!--            </nav>-->
-<!--</div>-->
-<!--</div>-->
-
     <!--    Top Navbar xs, small, med only-->
     <div id="navbar-section-small" class="d-block d-sm-none d-sm-block d-md-none d-md-block d-lg-none">
         <nav id="navbar-small">
@@ -36,7 +22,7 @@
         </nav>
     </div>
 
-<main id="main-container">
+<main id="main-container-small" class="d-block d-sm-none d-sm-block d-md-none d-md-block d-lg-none">
     <!--About me section-->
     <div id="about-me-anchor">
 
@@ -106,38 +92,6 @@
     <div id="main-project">
         <h2 class="text-center">Projects</h2>
 
-        <!--    Weather Project-->
-
-<!--        <div id="weather-project">-->
-<!--            <h5 id="weather-header">Weather Project</h5>-->
-<!--            <br>-->
-<!--            <p class="outside-link">-->
-<!--                An application created during Codeup's Javascript and Jquery modules. This utilizes two APIs: <a href="https://www.mapbox.com/" target="_blank">Mapbox</a> and <a href="https://openweathermap.org/" target="_blank">OpenWeatherMap.</a>-->
-<!--                <br>-->
-<!--                <br>-->
-<!--                The user can search using the input box, and the map will adjust to display the new city and create a pin on the user's searched location. The weather will dynamically update for each search.-->
-<!--                <br>-->
-<!--                <br>-->
-<!--                The user can also drag and drop the pin to update the weather for the pin's location.-->
-<!--            </p>-->
-<!--            <img src="img/weatherimage.png" alt="weather project image" id="weather-img">-->
-<!--        </div>-->
-
-<!--        &lt;!&ndash;    Coffee Project&ndash;&gt;-->
-
-<!--        <div id="coffee-project">-->
-<!--            <h5 id="coffee-header">Coffee Project</h5>-->
-
-<!--            <p>-->
-<!--                Created with a partner during a pair programming exercise in Codeup's Javascript module.-->
-<!--                <br>-->
-<!--                <br>-->
-
-<!--                This application allows for the user to select their desired roast of coffee, and search by name within the roast category.-->
-<!--            </p>-->
-<!--            <img src="img/coffeeimage.png" alt="coffee project image" id="coffee-img">-->
-<!--        </div>-->
-
 
 <!--    Test Project Carousel-->
 
@@ -194,6 +148,24 @@
         </a>
     </div>
     </div>
+</main>
+
+<!--    Large and XL website -->
+<main id="main-container-large" class="d-none d-lg-block d-xl-none d-xl-block">
+
+    <!--    Side Navbar - XL and L only-->
+
+    <div id="sidebar" class="d-none d-xl-block d-lg-block d-xl-none">
+        <div id="navbar-section">
+                <nav id="navbar" class="d-none d-xl-block d-lg-block d-xl-none">
+                <ul class="d-flex nav flex-column">
+                    <li class="nav-li" id="icon-li"><a href="#about-me-anchor"><img src="img/moriah-icon.jpg" alt="icon" id="small-icon">About Me</a></li>
+                    <li class="nav-li"><a href="#connect-anchor">Connect</a></li>
+                    <li class="nav-li"><a href="#project-anchor">Projects</a></li>
+                </ul>
+                </nav>
+    </div>
+    </div>
 
 
 </main>
@@ -207,3 +179,37 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 </body>
 </html>
+
+<!--Non-carousel projects-->
+
+<!--    Weather Project-->
+
+<!--        <div id="weather-project">-->
+<!--            <h5 id="weather-header">Weather Project</h5>-->
+<!--            <br>-->
+<!--            <p class="outside-link">-->
+<!--                An application created during Codeup's Javascript and Jquery modules. This utilizes two APIs: <a href="https://www.mapbox.com/" target="_blank">Mapbox</a> and <a href="https://openweathermap.org/" target="_blank">OpenWeatherMap.</a>-->
+<!--                <br>-->
+<!--                <br>-->
+<!--                The user can search using the input box, and the map will adjust to display the new city and create a pin on the user's searched location. The weather will dynamically update for each search.-->
+<!--                <br>-->
+<!--                <br>-->
+<!--                The user can also drag and drop the pin to update the weather for the pin's location.-->
+<!--            </p>-->
+<!--            <img src="img/weatherimage.png" alt="weather project image" id="weather-img">-->
+<!--        </div>-->
+
+<!--        &lt;!&ndash;    Coffee Project&ndash;&gt;-->
+
+<!--        <div id="coffee-project">-->
+<!--            <h5 id="coffee-header">Coffee Project</h5>-->
+
+<!--            <p>-->
+<!--                Created with a partner during a pair programming exercise in Codeup's Javascript module.-->
+<!--                <br>-->
+<!--                <br>-->
+
+<!--                This application allows for the user to select their desired roast of coffee, and search by name within the roast category.-->
+<!--            </p>-->
+<!--            <img src="img/coffeeimage.png" alt="coffee project image" id="coffee-img">-->
+<!--        </div>-->

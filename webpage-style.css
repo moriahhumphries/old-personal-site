@@ -171,7 +171,7 @@ html {
 }
 
 .nav-li > a {
-    color: white !important;
+    color: #fffee8 !important;
     text-decoration: none;
     font-family: 'Neuton', serif;
     font-size: 40px;
@@ -194,7 +194,7 @@ html {
 
 #carouselExampleCaptions-large {
     height: 100vh;
-    width: 85vw;
+    width: 75vw;
 }
 
 #left-block {
@@ -227,11 +227,17 @@ html {
     display: inline-block;
     border: 1px solid #8c8a7b;
     background-color: rgba(224, 200, 173, .5);
-    width: 87vw;
+    width: 75vw;
     height: 100vh;
     padding: 10px;
     margin-bottom: 15px;
     font-family: 'Lato', sans-serif;
+}
+
+#contact-list {
+    font-size: 24px;
+    list-style: none;
+
 }
 
 

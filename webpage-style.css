@@ -87,8 +87,7 @@ html {
     border: 1px solid #8c8a7b;
     background-color: rgba(224, 200, 173, .5);
     width: 100vw;
-    /*padding: 10px;*/
-    /*margin: 15px;*/
+    padding: 15px;
     font-family: 'Lato', sans-serif;
 }
 
@@ -101,7 +100,7 @@ html {
     border: 1px solid #8c8a7b;
     background-color: rgba(224, 200, 173, .5);
     width: 100vw;
-    /*padding: 15px;*/
+    padding: 15px;
     font-family: 'Lato', sans-serif;
 }
 

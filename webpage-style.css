@@ -191,6 +191,12 @@ html {
     width: 100vw;
 }
 
+#about-photo {
+    width: 300px;
+    height: auto;
+    border-radius: 60%;
+}
+
 #carouselExampleCaptions-large {
     height: 100vh;
     width: 75vw;

@@ -78,6 +78,7 @@ html {
 
 #about-me {
     margin-top: 50px;
+    font-family: 'Lato', sans-serif;
 }
 
 
@@ -88,6 +89,7 @@ html {
     width: 100vw;
     padding: 10px;
     margin: 15px;
+    font-family: 'Lato', sans-serif;
 }
 
 #connect {
@@ -100,6 +102,7 @@ html {
     background-color: rgba(224, 200, 173, .5);
     width: 100vw;
     padding: 15px;
+    font-family: 'Lato', sans-serif;
 }
 
 .outside-link > a {
@@ -127,6 +130,7 @@ html {
     /*height: 25vw;*/
     padding: 10px;
     /*margin-bottom: 10px;*/
+    font-family: 'Lato', sans-serif;
 
 }
 
@@ -235,6 +239,7 @@ html {
     height: 100vh;
     padding: 10px;
     margin-bottom: 15px;
+    font-family: 'Lato', sans-serif;
 }
 
 

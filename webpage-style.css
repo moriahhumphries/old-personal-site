@@ -41,7 +41,7 @@ html {
 .nav-li-small > a {
     color: #fffee8 !important;
     text-decoration: none;
-    font-family: 'Lobster', cursive;
+    font-family: 'Neuton', serif;
     font-size: 1.75em;
 }
 #small-icon-mobile {
@@ -171,12 +171,13 @@ html {
 .nav-li > a {
     color: white !important;
     text-decoration: none;
-    font-family: 'Lobster', cursive;
+    font-family: 'Neuton', serif;
     font-size: 1.75em;
 }
 
 #sidebar-icon {
-    width: 140px;
+    width: 110px;
+    height: auto;
     background-color: #fffee8;
     border-radius: 50%;
 }
@@ -206,6 +207,12 @@ html {
 }
 #name > h1 {
     font-size: 7em;
+    font-family: 'Neuton', serif;
+}
+
+#tag-line {
+    font-family: 'Neuton', serif;
+    font-size: 3em;
 }
 #landing-page {
     display: inline-block;

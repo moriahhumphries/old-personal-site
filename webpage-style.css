@@ -55,6 +55,10 @@ html {
    width: 150px;
 }
 
+#about-me-small, #technical-skills-small, #connect-small, #projects-small {
+    font-family: 'Neuton', serif;
+}
+
 #about-me-anchor, #connect-anchor, #project-anchor{
     display: block;
     position: relative;
@@ -83,9 +87,11 @@ html {
     background-color: rgba(224, 200, 173, .5);
     width: 100vw;
     padding: 10px;
-    margin-bottom: 15px;
+    margin: 15px;
+}
 
-
+#connect {
+    margin-top: 15px;
 }
 
 #main-project {

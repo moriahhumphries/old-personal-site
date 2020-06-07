@@ -25,6 +25,7 @@ html {
     background-image: url("img/wood-small-nav.png");
     background-size: cover;
     color: white;
+    text-shadow: 3px 3px 5px #000000;
     width: 100vw;
     height: 50px;
     margin-bottom: 10px;
@@ -56,7 +57,7 @@ html {
     font-family: 'Neuton', serif;
 }
 
-#about-me-anchor, #connect-anchor, #project-anchor{
+#about-me-anchor, #technical-skills-anchor, #project-anchor, #connect-anchor {
     display: block;
     position: relative;
     top: -47px;

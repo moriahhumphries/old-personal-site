@@ -241,16 +241,15 @@ html {
     width: 87vw;
     height: 100vh;
     padding: 10px;
-    margin-bottom: 15px;
 }
-#about-me-large, #skills-large, #projects-large, #connect-large {
+#about-me-large, #skills-large, #project-page, #connect-page {
     display: inline-block;
     border: 1px solid #8c8a7b;
     background-color: rgba(224, 200, 173, .5);
-    width: 75vw;
+    width: 65vw;
     height: 100vh;
-    padding: 10px;
-    margin-bottom: 15px;
+    padding: 0 10px;
+    margin: 0 0 0 50px;
     font-family: 'Lato', sans-serif;
 }
 

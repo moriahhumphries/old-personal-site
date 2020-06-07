@@ -135,12 +135,17 @@ html {
 /*Carousel */
 
 .carousel-control-next-icon, .carousel-control-prev-icon {
-    background-color: #8a3e05;
-    border-radius: 30%;
+    /*background-color: #8a3e05;*/
+    /*border-radius: 30%;*/
+    /*width: 150px;*/
+    /*height: 50px;*/
+    /*position: fixed;*/
+    visibility: hidden;
+
 }
 
 .carousel-control-prev, .carousel-control-next {
-    width: 10vw;
+    width: 15vw;
 }
 
 

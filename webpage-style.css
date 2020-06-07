@@ -228,7 +228,7 @@ html {
     padding: 10px;
     margin-bottom: 15px;
 }
-#about-me-large, #connect-large, #projects-large {
+#about-me-large, #skills-large, #projects-large, #connect-large {
     display: inline-block;
     border: 1px solid #8c8a7b;
     background-color: rgba(224, 200, 173, .5);
@@ -239,7 +239,7 @@ html {
     font-family: 'Lato', sans-serif;
 }
 
-#contact-list {
+#contact-list, #skill-list {
     font-size: 30px;
     list-style: none;
 

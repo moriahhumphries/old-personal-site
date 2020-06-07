@@ -80,7 +80,7 @@ html {
 }
 
 
-#about-me, #connect, #technical-skills {
+#about-me, #technical-skills, #connect, #main-project {
     display: inline-block;
     border: 1px solid #8c8a7b;
     background-color: rgba(224, 200, 173, .5);
@@ -93,12 +93,15 @@ html {
     margin-top: 15px;
 }
 
+#technical-skills {
+    margin-bottom: 15px;
+}
+
 #main-project {
     display: inline-block;
     border: 1px solid #8c8a7b;
     background-color: rgba(224, 200, 173, .5);
     width: 100vw;
-    margin-top: 15px;
     padding: 15px;
     font-family: 'Lato', sans-serif;
 }

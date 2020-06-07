@@ -99,6 +99,7 @@ html {
 
 #skills-list-large {
     list-style: none;
+    font-size: 2em;
 }
 
 #main-project {
@@ -251,8 +252,12 @@ html {
     font-family: 'Lato', sans-serif;
 }
 
+#intro-paragraph {
+    font-size: 1.05em;
+}
+
 #contact-list, #skill-list {
-    font-size: 30px;
+    font-size: 2em;
     list-style: none;
 
 }

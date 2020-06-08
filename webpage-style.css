@@ -163,7 +163,7 @@ html {
     height: 100vh;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url("img/wood-slim.png");
+    background-image: url("img/wood-slim-small.png");
     background-attachment: fixed;
     display: inline-block;
 }

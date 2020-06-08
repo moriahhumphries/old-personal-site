@@ -97,11 +97,6 @@ html {
     margin-bottom: 15px;
 }
 
-#skills-list-large {
-    list-style: none;
-    font-size: 2em;
-}
-
 #main-project {
     display: inline-block;
     border: 1px solid #8c8a7b;
@@ -256,8 +251,8 @@ html {
     font-size: 1.05em;
 }
 
-#contact-list, #skill-list {
-    font-size: 2em;
+#contact-list, #skills-list-large{
+    font-size: 1.75em;
     list-style: none;
 
 }

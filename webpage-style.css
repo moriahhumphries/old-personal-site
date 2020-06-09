@@ -251,11 +251,17 @@ html {
     font-family: 'Lato', sans-serif;
 }
 
+.column {
+    width: 35%;
+    flex: 30%;
+    padding: 10px;
+}
+
 #intro-paragraph {
     font-size: 1.05em;
 }
 
-#contact-list, #skills-list-large {
+#contact-list, .skills-list-large {
     font-size: 1.75em;
     list-style: none;
 

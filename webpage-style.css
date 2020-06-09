@@ -251,6 +251,10 @@ html {
     font-family: 'Lato', sans-serif;
 }
 
+.project-text {
+    height: 25vh;
+}
+
 .column {
     width: 35%;
     flex: 30%;
@@ -261,7 +265,7 @@ html {
     font-size: 1.05em;
 }
 
-#contact-list, .skills-list-large {
+#contact-list, #skills-list-large {
     font-size: 1.75em;
     list-style: none;
 

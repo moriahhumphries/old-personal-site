@@ -14,7 +14,7 @@ html {
     height: 100vh;
     margin: 0 !important;
     padding: 0 !important;
-    scroll-behavior: smooth!important;
+    scroll-behavior: smooth !important;
 }
 
 /*MOBILE PAGE*/
@@ -42,6 +42,7 @@ html {
     font-family: 'Neuton', serif;
     font-size: 1.75em;
 }
+
 #small-icon-mobile {
     width: 27%;
     height: auto;
@@ -50,7 +51,7 @@ html {
 }
 
 #icon-li-mobile {
-   width: 150px;
+    width: 150px;
 }
 
 #about-me-small, #technical-skills-small, #connect-small, #projects-small {
@@ -110,7 +111,7 @@ html {
     color: #0092b0;
 }
 
-.outside-link > a:visited{
+.outside-link > a:visited {
     color: #8e3499;
 }
 
@@ -220,6 +221,7 @@ html {
     height: 100vh;
     overflow-y: hidden;
 }
+
 #name > h1 {
     font-size: 7em;
     font-family: 'Neuton', serif;
@@ -231,13 +233,15 @@ html {
     font-size: 3em;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
 }
+
 #landing-page {
     display: inline-block;
     width: 87vw;
     height: 100vh;
     padding: 10px;
 }
-#about-me-large, #skills-large, #projects-large, #carouselExampleCaptions-large, #connect-large{
+
+#about-me-large, #skills-large, #projects-large, #carouselExampleCaptions-large, #connect-large {
     display: inline-block;
     background-color: rgba(224, 200, 173, .2);
     width: 65vw;
@@ -251,7 +255,7 @@ html {
     font-size: 1.05em;
 }
 
-#contact-list, #skills-list-large{
+#contact-list, #skills-list-large {
     font-size: 1.75em;
     list-style: none;
 

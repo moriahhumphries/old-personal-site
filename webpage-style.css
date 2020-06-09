@@ -152,6 +152,8 @@ html {
 
 .carousel-control-prev, .carousel-control-next {
     width: 15vw;
+    height: 68vh;
+    margin-top: 178px;
 }
 
 

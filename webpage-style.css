@@ -256,6 +256,7 @@ html {
 }
 .project-text {
     height: 25vh;
+    font-size: 1.05em;
 }
 
 .column {

@@ -40,22 +40,23 @@ html {
     color: #fffee8 !important;
     text-decoration: none;
     font-family: 'Neuton', serif;
-    font-size: 1.75em;
+    font-size: 24px;
 }
 
-#small-icon-mobile {
-    width: 27%;
-    height: auto;
-    background-color: #fffee8;
-    border-radius: 50%;
-}
+/*#small-icon-mobile {*/
+/*    width: 27%;*/
+/*    height: auto;*/
+/*    background-color: #fffee8;*/
+/*    border-radius: 50%;*/
+/*}*/
 
-#icon-li-mobile {
-    width: 150px;
-}
+/*#icon-li-mobile {*/
+/*    width: 150px;*/
+/*}*/
 
 #about-me-small, #technical-skills-small, #connect-small, #projects-small {
     font-family: 'Neuton', serif;
+    font-size: 22px;
 }
 
 #about-me-anchor, #technical-skills-anchor, #project-anchor, #connect-anchor {
@@ -150,7 +151,7 @@ html {
 
 }
 
-.carousel-control-prev, .carousel-control-next {
+.carousel-control-large {
     width: 15vw;
     height: 68vh;
     margin-top: 178px;

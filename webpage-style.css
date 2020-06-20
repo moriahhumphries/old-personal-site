@@ -93,6 +93,14 @@ html {
 
 #connect {
     margin-top: 15px;
+    padding: 0!important;
+
+}
+
+#contact-list-small {
+    list-style: none;
+    padding: 0!important;
+
 }
 
 #technical-skills {

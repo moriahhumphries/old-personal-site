@@ -185,11 +185,16 @@ html {
 }
 
 .nav-li > a {
-    color: #fffee8 !important;
+    color: #fffee8;
     text-decoration: none;
     font-family: 'Neuton', serif;
     font-size: 40px;
     text-shadow: 3px 3px 5px #000000;
+}
+
+.nav-li > a:hover {
+    font-size: 44px;
+    text-shadow: 4px 4px 6px #000000;
 }
 
 
@@ -200,6 +205,10 @@ html {
     border-radius: 50%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.55);
 }
+
+
+
+
 
 /*Large Content - middle-block*/
 

@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eb7e857-c289-4a2f-91a0-090036f872e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/149d375e7bde1791d81a0daca6a32d16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/Desert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/Floating-House.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/Kitty-Huntress.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/abstract-architecture-background-contemporary-1154739.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/abstract-art-background-color-2249527.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/classic-blue-coupe-die-cast-model-1037995.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/close-up-photo-of-green-leafed-plant-1407305.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/full-frame-shot-of-abstract-background-247666.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/green-leafed-plant-2557232.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/moriah-watermark.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/photo-of-led-signage-on-the-wall-942317.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/photo-of-neon-signage-1820770.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/photo-of-swiss-cheese-plant-2929949.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/photo-of-trees-across-mountains-2693529.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/pink-clouds-1831234.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/pink-texture-wall-1585710.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/potted-aloe-vera-plant-1445418.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal Website/Inspo/shallow-focus-photo-of-clear-ball-2318025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="1eb7e857-c289-4a2f-91a0-090036f872e9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +73,7 @@
       <workItem from="1591846700198" duration="567000" />
       <workItem from="1592090549791" duration="1168000" />
       <workItem from="1592427396418" duration="509000" />
-      <workItem from="1592607175147" duration="2497000" />
+      <workItem from="1592607175147" duration="6452000" />
     </task>
     <servers />
   </component>
@@ -132,10 +109,11 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="0" y="44" key="new project wizard/0.23.1440.801@0.23.1440.801" timestamp="1587742966467" />
-    <state x="385" y="151" width="670" height="693" key="search.everywhere.popup" timestamp="1592091358969">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="385" y="150" width="670" height="686" key="search.everywhere.popup" timestamp="1592678107262">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="385" y="148" width="670" height="676" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1587946208649" />
+    <state x="385" y="150" width="670" height="686" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1592678107262" />
     <state x="385" y="151" width="670" height="693" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1592091358969" />
   </component>
 </project>

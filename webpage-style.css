@@ -196,12 +196,12 @@ html {
     color: #fffee8;
     text-decoration: none;
     font-family: 'Neuton', serif;
-    font-size: 40px;
+    font-size: 41px;
     text-shadow: 3px 3px 5px #000000;
 }
 
 .nav-li > a:hover {
-    font-size: 44px;
+    font-size: 40px;
     text-shadow: 4px 4px 6px #000000;
 }
 

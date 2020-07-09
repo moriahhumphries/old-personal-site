@@ -240,7 +240,7 @@ html {
 #middle-block {
     width: auto;
     height: 100vh;
-    overflow-y: hidden;
+    overflow-y: scroll;
 }
 
 #name > h1 {
